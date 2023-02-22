@@ -1,1 +1,1 @@
-# Stathopoulos_Lab_scRNA
+# Stathopoulos Lab single-cell RNAseq project
